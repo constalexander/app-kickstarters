@@ -2,24 +2,22 @@
 
 Base repos for rapid prototyping 🚧 or launching 🚀 a new product.
 
-## Choose project
+- [**Express API Kickstarter**](https://github.com/constalexander/Express-API-kickstarter)
 
-- [**ReactCraft**](https://github.com/constalexander/react-craft) &ndash; ![React](https://img.shields.io/badge/React-16-gray?style=plastic&logo=react)
-
-## Add a new project
+## Add a kickstarter
 
 ```shell
 git submodule add <repository_url_or_path>
 ```
 
-## Remove a project
+## Remove a kickstarter
 
 ```shell
 git submodule deinit <path/to/submodule>
 git rm <path/to/submodule>
 ```
 
-## Update all projects to the latest commits
+## Update all to latest commits
 
 ```shell
 git submodule update --remote --merge
