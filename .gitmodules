@@ -1,0 +1,3 @@
+[submodule "Express-API-kickstarter"]
+	path = Express-API-kickstarter
+	url = https://github.com/constalexander/Express-API-kickstarter
